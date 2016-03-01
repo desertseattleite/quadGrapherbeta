@@ -1,0 +1,2 @@
+# quadGrapherbeta
+Quadratic grapher thingy. 
